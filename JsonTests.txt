@@ -1,0 +1,76 @@
+{PostMapping
+         "taskDescription": "taskDescription",
+         "startDate": "2023-11-06",
+         "endDate": "2023-11-24",
+         "completed": "false"
+}
+
+{PostMapping
+         "taskDescription": "taskDescription",
+         "startDate": "2023-12-06",
+         "endDate": "2023-12-24",
+         "completed": "false"
+}
+
+{PostMapping
+        "taskDescription": "taskDescription",
+        "startDate": "2023-12-06",
+        "endDate": "2023-12-07",
+        "completed": "false"
+}
+
+{PostMapping
+        "taskDescription": "taskDescription",
+        "startDate": "2023-02-06",
+        "endDate": "2023-02-07",
+        "completed": "false"
+}
+
+{PostMapping
+        "taskDescription": "taskDescription",
+        "startDate": "2023-02-06",
+        "endDate": "2023-02-09",
+        "completed": "false"
+}
+[
+    {GetMapping
+        "id": "6488e80e6052a34a0500236c",
+        "taskDescription": "taskDescription",
+        "startDate": "2023-11-06",
+        "endDate": "2023-11-24",
+        "completed": false,
+        "statusMessage": "You have plenty of time to do it"
+    },
+    {GetMapping
+        "id": "6488f940728ade2d76dcc127",
+        "taskDescription": "taskDescription",
+        "startDate": "2023-12-06",
+        "endDate": "2023-12-24",
+        "completed": false,
+        "statusMessage": "You have plenty of time to do it"
+    },
+    {GetMapping
+        "id": "6488f950728ade2d76dcc128",
+        "taskDescription": "taskDescription",
+        "startDate": "2023-12-06",
+        "endDate": "2023-12-07",
+        "completed": false,
+        "statusMessage": "You have 1 days left for doing this hurry up!!!"
+    },
+    {GetMapping
+        "id": "6488fef42c13c040cc1f95f8",
+        "taskDescription": "taskDescription",
+        "startDate": "2023-02-06",
+        "endDate": "2023-02-07",
+        "completed": false,
+        "statusMessage": "You have 1 days left for doing this hurry up!!!"
+    },
+    {GetMapping
+        "id": "6488ff032c13c040cc1f95f9",
+        "taskDescription": "taskDescription",
+        "startDate": "2023-02-06",
+        "endDate": "2023-02-09",
+        "completed": false,
+        "statusMessage": "You have plenty of time to do it"
+    }
+]
